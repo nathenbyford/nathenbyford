@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nathenbyford
-- I’m interested in applying statistics and data science methods to cybersecurity problems.
-- I’m currently a PhD student at Baylor University's department of Statistical Science.
-- I’m looking to collaborate on projects in cybersecurity with a need for statistical knowledge or data analysis
+- Hi, I’m Nathen Byford
+- I’m currently a PhD student at Baylor University in the department of Statistical Science.
+- My interests include data visualization, spatial statistics, count modeling, and under reporting. 
 - You can reach me at nathen_byford1@baylor.edu
 
 <!---
